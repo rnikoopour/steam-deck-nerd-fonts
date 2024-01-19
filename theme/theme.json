@@ -1,6 +1,6 @@
 {
   "name": "Nerd Fonts",
-  "description": "This theme adds a variety of nerd fonts. They have been stripped down to latin chars and currency symbols. The unmodified fonts can be found at https://github.com/ryanoasis/nerd-fonts.",
+  "description": "This theme adds a variety of nerd fonts. They have been stripped down to latin chars and currency symbols. The unmodified fonts can be found at https://github.com/ryanoasis/nerd-fonts. This theme is not affiliated with ryanoasis or the Nerd Fonts aggregator.",
   "author": "dankutron9000",
   "version": "v1.0",
   "manifest_version": 8,
@@ -12,29 +12,8 @@
       "default": "None",
       "values": {
         "None": {},
-        "3270": {
-          "font-css/3270.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "Agave": {
           "font-css/Agave.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "AnonymicePro": {
-          "font-css/AnonymicePro.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Arimo": {
-          "font-css/Arimo.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -47,36 +26,8 @@
             "QuickAccess"
           ]
         },
-        "BitstromWera": {
-          "font-css/BitstromWera.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "CaskaydiaCove": {
           "font-css/CaskaydiaCove.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Cousine": {
-          "font-css/Cousine.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "DejaVuSansM": {
-          "font-css/DejaVuSansM.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "EnnVeeCodeR": {
-          "font-css/EnnVeeCodeR.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -89,22 +40,8 @@
             "QuickAccess"
           ]
         },
-        "FiraCode": {
-          "font-css/FiraCode.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "GohuFont14": {
           "font-css/GohuFont14.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Hack": {
-          "font-css/Hack.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -117,13 +54,6 @@
             "QuickAccess"
           ]
         },
-        "Inconsolata": {
-          "font-css/Inconsolata.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "Iosevka": {
           "font-css/Iosevka.css": [
             "bigpicture",
@@ -131,57 +61,8 @@
             "QuickAccess"
           ]
         },
-        "Lekton": {
-          "font-css/Lekton.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Lilex": {
-          "font-css/Lilex.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "LiterationSans": {
-          "font-css/LiterationSans.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "M+1": {
-          "font-css/M+1.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "MesloLGL": {
-          "font-css/MesloLGL.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "NotoSans": {
-          "font-css/NotoSans.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "NotoSerif": {
           "font-css/NotoSerif.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "ProFontIIx": {
-          "font-css/ProFontIIx.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -203,20 +84,6 @@
         },
         "Terminess": {
           "font-css/Terminess.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Tinos": {
-          "font-css/Tinos.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Ubuntu": {
-          "font-css/Ubuntu.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
