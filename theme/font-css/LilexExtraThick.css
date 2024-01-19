@@ -1,8 +1,0 @@
-@font-face {
-  font-family: LilexExtraThick;
-  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.LilexExtraThickNerdFont-Regular.ttf");
-}
-
-* {
-  font-family: LilexExtraThick !important;
-}
