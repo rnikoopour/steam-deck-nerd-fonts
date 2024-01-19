@@ -1,8 +1,8 @@
 @fontface {
   font-family: Lilex;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.LilexNerdFont-Regular.ttf")
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.LilexNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: Lilex !important
+  font-family: Lilex !important;
 }

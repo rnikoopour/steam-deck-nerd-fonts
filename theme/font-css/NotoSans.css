@@ -1,8 +1,8 @@
 @fontface {
   font-family: NotoSans;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.NotoSansNerdFont-Regular.ttf")
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.NotoSansNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: NotoSans !important
+  font-family: NotoSans !important;
 }

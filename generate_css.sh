@@ -4,10 +4,10 @@ for font in `/bin/ls theme/nerd-fonts/*.ttf`; do
 
     echo "@fontface {" > ./theme/font-css/${font_name}.css
     echo "  font-family: ${font_name};" >> ./theme/font-css/${font_name}.css
-    echo "  src: url(\"/themes_custom/Nerd Fonts/nerd-fonts/${file_name}\")" >> ./theme/font-css/${font_name}.css
+    echo "  src: url(\"/themes_custom/Nerd Fonts/nerd-fonts/${file_name}\");" >> ./theme/font-css/${font_name}.css
     echo "}" >> ./theme/font-css/${font_name}.css
     echo "" >> ./theme/font-css/${font_name}.css
     echo "* {" >> ./theme/font-css/${font_name}.css
-    echo "  font-family: ${font_name} !important" >> ./theme/font-css/${font_name}.css
+    echo "  font-family: ${font_name} !important;" >> ./theme/font-css/${font_name}.css
     echo "}" >> ./theme/font-css/${font_name}.css
 done
