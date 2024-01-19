@@ -1,6 +1,6 @@
-@fontface {
+@font-face {
   font-family: FiraCode;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.FiraCodeNerdFont-Regular.ttf");
+  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.FiraCodeNerdFont-Regular.ttf");
 }
 
 * {

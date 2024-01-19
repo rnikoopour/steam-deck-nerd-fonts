@@ -8,267 +8,267 @@
   "target": "System-Wide",
   "patches": {
     "Font": {
-      "default": "None",
       "type": "dropdown",
+      "default": "None",
       "values": {
         "None": {},
         "3270": {
           "font-css/3270.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Agave": {
           "font-css/Agave.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "AnonymicePro": {
           "font-css/AnonymicePro.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Arimo": {
           "font-css/Arimo.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "BigBlueTerm437": {
           "font-css/BigBlueTerm437.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "BigBlueTermPlus": {
           "font-css/BigBlueTermPlus.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "BitstromWera": {
           "font-css/BitstromWera.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "CaskaydiaCove": {
           "font-css/CaskaydiaCove.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Cousine": {
           "font-css/Cousine.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "DejaVuSansM": {
           "font-css/DejaVuSansM.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "EnvyCodeR": {
           "font-css/EnvyCodeR.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "FantasqueSansM": {
           "font-css/FantasqueSansM.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "FiraCode": {
           "font-css/FiraCode.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "GohuFont11": {
           "font-css/GohuFont11.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "GohuFont14": {
           "font-css/GohuFont14.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Hack": {
           "font-css/Hack.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "HeavyData": {
           "font-css/HeavyData.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "InconsolataGo": {
           "font-css/InconsolataGo.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Inconsolata": {
           "font-css/Inconsolata.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Iosevka": {
           "font-css/Iosevka.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "IosevkaTerm": {
           "font-css/IosevkaTerm.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Lekton": {
           "font-css/Lekton.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "LilexExtraThick": {
           "font-css/LilexExtraThick.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Lilex": {
           "font-css/Lilex.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "LiterationSans": {
           "font-css/LiterationSans.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "M+1": {
           "font-css/M+1.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "M+2": {
           "font-css/M+2.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "MesloLGL": {
           "font-css/MesloLGL.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "NotoSans": {
           "font-css/NotoSans.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "NotoSerif": {
           "font-css/NotoSerif.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "ProFontIIx": {
           "font-css/ProFontIIx.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "ProFontWindows": {
           "font-css/ProFontWindows.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "ProggyClean": {
           "font-css/ProggyClean.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "SauceCodePro": {
           "font-css/SauceCodePro.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Terminess": {
           "font-css/Terminess.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Tinos": {
           "font-css/Tinos.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         },
         "Ubuntu": {
           "font-css/Ubuntu.css": [
-            "SP",
+            "bigpicture",
             "MainMenu",
-            "QuickAcces"
+            "QuickAccess"
           ]
         }
       }
