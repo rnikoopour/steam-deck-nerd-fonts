@@ -1,6 +1,6 @@
-@fontface {
+@font-face {
   font-family: ProFontWindows;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.ProFontWindowsNerdFont-Regular.ttf");
+  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.ProFontWindowsNerdFont-Regular.ttf");
 }
 
 * {

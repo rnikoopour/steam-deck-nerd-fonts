@@ -1,6 +1,6 @@
-@fontface {
+@font-face {
   font-family: DejaVuSansM;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.DejaVuSansMNerdFont-Regular.ttf");
+  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.DejaVuSansMNerdFont-Regular.ttf");
 }
 
 * {
