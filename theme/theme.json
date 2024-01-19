@@ -47,13 +47,6 @@
             "QuickAccess"
           ]
         },
-        "BigBlueTermPlus": {
-          "font-css/BigBlueTermPlus.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "BitstromWera": {
           "font-css/BitstromWera.css": [
             "bigpicture",
@@ -103,13 +96,6 @@
             "QuickAccess"
           ]
         },
-        "GohuFont11": {
-          "font-css/GohuFont11.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "GohuFont14": {
           "font-css/GohuFont14.css": [
             "bigpicture",
@@ -131,13 +117,6 @@
             "QuickAccess"
           ]
         },
-        "InconsolataGo": {
-          "font-css/InconsolataGo.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "Inconsolata": {
           "font-css/Inconsolata.css": [
             "bigpicture",
@@ -152,22 +131,8 @@
             "QuickAccess"
           ]
         },
-        "IosevkaTerm": {
-          "font-css/IosevkaTerm.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
         "Lekton": {
           "font-css/Lekton.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "LilexExtraThick": {
-          "font-css/LilexExtraThick.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -189,13 +154,6 @@
         },
         "M+1": {
           "font-css/M+1.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "M+2": {
-          "font-css/M+2.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
@@ -231,13 +189,6 @@
         },
         "ProFontWindows": {
           "font-css/ProFontWindows.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "ProggyClean": {
-          "font-css/ProggyClean.css": [
             "bigpicture",
             "MainMenu",
             "QuickAccess"
