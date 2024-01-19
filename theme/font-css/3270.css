@@ -1,8 +1,8 @@
 @fontface {
-  font-family: 3270;
+  font-family: "3270";
   src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.3270NerdFont-Regular.ttf");
 }
 
 * {
-  font-family: 3270 !important;
+  font-family: "3270" !important;
 }
