@@ -1,8 +1,8 @@
 @fontface {
   font-family: InconsolataGo;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.InconsolataGoNerdFont-Regular.ttf")
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.InconsolataGoNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: InconsolataGo !important
+  font-family: InconsolataGo !important;
 }

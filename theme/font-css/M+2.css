@@ -1,8 +1,8 @@
 @fontface {
   font-family: M+2;
-  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.M+2NerdFont-Regular.ttf")
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.M+2NerdFont-Regular.ttf");
 }
 
 * {
-  font-family: M+2 !important
+  font-family: M+2 !important;
 }
