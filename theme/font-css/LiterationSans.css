@@ -1,8 +1,8 @@
 @font-face {
-  font-family: LiterationSans;
+  font-family: "LiterationSans";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.LiterationSansNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: LiterationSans !important;
+  font-family: "LiterationSans" !important;
 }

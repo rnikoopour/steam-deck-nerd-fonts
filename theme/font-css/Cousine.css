@@ -1,8 +1,8 @@
 @font-face {
-  font-family: Cousine;
+  font-family: "Cousine";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.CousineNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: Cousine !important;
+  font-family: "Cousine" !important;
 }

@@ -1,8 +1,8 @@
 @font-face {
-  font-family: MesloLGL;
+  font-family: "MesloLGL";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.MesloLGLNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: MesloLGL !important;
+  font-family: "MesloLGL" !important;
 }
