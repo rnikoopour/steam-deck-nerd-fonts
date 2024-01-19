@@ -1,0 +1,8 @@
+@fontface {
+  font-family: Arimo;
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.ArimoNerdFont-Regular.ttf")
+}
+
+* {
+  font-family: Arimo !important
+}
