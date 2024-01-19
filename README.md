@@ -1,4 +1,9 @@
 # Steam Deck Nerd Fonts
 
-Theme that adds a variety of nerd fonts.  Fonts have been been reduced down to
-latin chars and currency symbols.
+This theme adds a variety of nerd fonts. They have been stripped down to 
+latin chars and currency symbols. The unmodified fonts can be found at 
+https://github.com/ryanoasis/nerd-fonts.
+
+
+## Heavydata Example
+![](./imgs/heavydata-nerdfont.png)
