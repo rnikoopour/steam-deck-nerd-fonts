@@ -1,8 +1,8 @@
 @font-face {
-  font-family: ProFontIIx;
+  font-family: "ProFontIIx";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.ProFontIIxNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: ProFontIIx !important;
+  font-family: "ProFontIIx" !important;
 }

@@ -1,8 +1,8 @@
 @font-face {
-  font-family: Tinos;
+  font-family: "Tinos";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.TinosNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: Tinos !important;
+  font-family: "Tinos" !important;
 }

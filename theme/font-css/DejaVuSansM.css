@@ -1,8 +1,8 @@
 @font-face {
-  font-family: DejaVuSansM;
+  font-family: "DejaVuSansM";
   src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.DejaVuSansMNerdFont-Regular.ttf");
 }
 
 * {
-  font-family: DejaVuSansM !important;
+  font-family: "DejaVuSansM" !important;
 }
