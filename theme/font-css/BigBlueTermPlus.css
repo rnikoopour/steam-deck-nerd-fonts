@@ -1,0 +1,8 @@
+@fontface {
+  font-family: BigBlueTermPlus;
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.BigBlueTermPlusNerdFont-Regular.ttf")
+}
+
+* {
+  font-family: BigBlueTermPlus !important
+}

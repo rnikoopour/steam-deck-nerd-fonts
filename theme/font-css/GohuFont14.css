@@ -1,0 +1,8 @@
+@fontface {
+  font-family: GohuFont14;
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.GohuFont14NerdFont-Regular.ttf")
+}
+
+* {
+  font-family: GohuFont14 !important
+}

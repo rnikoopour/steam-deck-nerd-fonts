@@ -1,0 +1,8 @@
+@fontface {
+  font-family: AnonymicePro;
+  src: url("/themes_custom/Nerd Fonts/nerd-fonts/reduced.AnonymiceProNerdFont-Regular.ttf")
+}
+
+* {
+  font-family: AnonymicePro !important
+}
