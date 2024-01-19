@@ -1,8 +1,0 @@
-@font-face {
-  font-family: "EnvyCodeR";
-  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.EnvyCodeRNerdFont-Regular.ttf");
-}
-
-* {
-  font-family: "EnvyCodeR" !important;
-}
