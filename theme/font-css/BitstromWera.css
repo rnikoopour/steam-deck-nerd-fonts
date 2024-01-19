@@ -1,8 +1,0 @@
-@font-face {
-  font-family: "BitstromWera";
-  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.BitstromWeraNerdFont-Regular.ttf");
-}
-
-* {
-  font-family: "BitstromWera" !important;
-}

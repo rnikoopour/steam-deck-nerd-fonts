@@ -1,8 +1,0 @@
-@font-face {
-  font-family: "Ubuntu";
-  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.UbuntuNerdFont-Regular.ttf");
-}
-
-* {
-  font-family: "Ubuntu" !important;
-}
