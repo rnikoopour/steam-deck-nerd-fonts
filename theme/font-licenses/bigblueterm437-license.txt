@@ -1,3 +1,6 @@
+Original Creator VileR
+Original Release: https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
