@@ -9,9 +9,8 @@
   "patches": {
     "Font": {
       "type": "dropdown",
-      "default": "None",
+      "default": "Agave",
       "values": {
-        "None": {},
         "Agave": {
           "font-css/Agave.css": [
             "bigpicture",
