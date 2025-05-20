@@ -60,6 +60,13 @@
             "QuickAccess"
           ]
         },
+        "JetBrainsMono-Regular": {
+          "font-css/JetBrainsMono-Regular.css": [
+            "bigpicture",
+            "MainMenu",
+            "QuickAccess"
+          ]
+        },
         "NotoSerif": {
           "font-css/NotoSerif.css": [
             "bigpicture",
@@ -85,3 +92,4 @@
     }
   }
 }
+
