@@ -11,6 +11,7 @@ currency_symbols=U+20A0-20C1
 all_codes="${basic_latin},${latin_1_supplement},${latin_extended_a},${latin_extended_b},${latin_extended_additional},${general_punctuation},${currency_symbols}"
 
 for font in `/bin/ls *.ttf`; do
-    echo "$font"
-    pyftsubset "$font" --unicodes="${all_codes}" --output-file="reduced/reduced.$font";
+    FONT_NAME=`echo "$font" | sed 's/.ttf//' | sed 's/.*reduced.//'`
+    echo "$FONT_NAME"
+    pyftsubset "$font" --unicodes="${all_codes}" --output-file="reduced.${FONT_NAME}.ttf";
 done

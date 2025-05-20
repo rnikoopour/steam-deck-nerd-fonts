@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "JetBrainsMono-Regular";
+  src: url("/themes_custom/Nerd%20Fonts/nerd-fonts/reduced.JetBrainsMono-Regular.ttf");
+}
+
+* {
+  font-family: "JetBrainsMono-Regular" !important;
+}
