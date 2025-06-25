@@ -8,6 +8,8 @@
   "target": "System-Wide",
   "patches": {
     "Font": {
+      "type": "dropdown",
+      "default": "Agave",
       "Agave": {
         "font-css/Agave.css": [
           "bigpicture",
