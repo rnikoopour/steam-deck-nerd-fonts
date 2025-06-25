@@ -1,5 +1,5 @@
 {
-  "name": "Nerd Fonts",
+  "name": "Nerd Fonts Test",
   "description": "This theme adds a variety of nerd fonts. They have been stripped down to latin chars and currency symbols. The unmodified fonts can be found at https://github.com/ryanoasis/nerd-fonts. This theme is not affiliated with ryanoasis or the Nerd Fonts aggregator.",
   "author": "dankutron9000",
   "version": "v1.0",
@@ -8,86 +8,82 @@
   "target": "System-Wide",
   "patches": {
     "Font": {
-      "type": "dropdown",
-      "default": "Agave",
-      "values": {
-        "Agave": {
-          "font-css/Agave.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "BigBlueTerm437": {
-          "font-css/BigBlueTerm437.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "CaskaydiaCove": {
-          "font-css/CaskaydiaCove.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "FantasqueSansM": {
-          "font-css/FantasqueSansM.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "GohuFont14": {
-          "font-css/GohuFont14.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "HeavyData": {
-          "font-css/HeavyData.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Iosevka": {
-          "font-css/Iosevka.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "JetBrainsMono-Regular": {
-          "font-css/JetBrainsMono-Regular.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "NotoSerif": {
-          "font-css/NotoSerif.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "ProFontWindows": {
-          "font-css/ProFontWindows.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        },
-        "Terminess": {
-          "font-css/Terminess.css": [
-            "bigpicture",
-            "MainMenu",
-            "QuickAccess"
-          ]
-        }
+      "Agave": {
+        "font-css/Agave.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "BigBlueTerm437": {
+        "font-css/BigBlueTerm437.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "CaskaydiaCove": {
+        "font-css/CaskaydiaCove.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "FantasqueSansM": {
+        "font-css/FantasqueSansM.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "GohuFont14": {
+        "font-css/GohuFont14.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "HeavyData": {
+        "font-css/HeavyData.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "Iosevka": {
+        "font-css/Iosevka.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "JetBrainsMonoNerdFontMono-Regular": {
+        "font-css/JetBrainsMonoNerdFontMono-Regular.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "NotoSerif": {
+        "font-css/NotoSerif.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "ProFontWindows": {
+        "font-css/ProFontWindows.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
+      },
+      "Terminess": {
+        "font-css/Terminess.css": [
+          "bigpicture",
+          "MainMenu",
+          "QuickAccess"
+        ]
       }
     }
   }
