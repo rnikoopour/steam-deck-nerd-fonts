@@ -25,5 +25,6 @@ or the Nerd Font aggregator.
 1. `bash ../../extract.sh`
 1. Remove the original unreduced font
 1. `bash ./generate_css.sh`
+1. Update the paths in the CSS to use the test theme folder path
 1. `bash ./generate_patches.sh | pbcopy`
 1. Replace data in `./theme/theme.json` at `patches.Font.values`
